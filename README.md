@@ -1,5 +1,6 @@
 # Supriya Chavan
-# Phone: +1-443-825-2399                                    Email: supriyasonvane2@gmail.com
+# Phone: +1-443-825-2399                                    
+## Email: supriyasonvane2@gmail.com
 
 ## PROFILE:
 * Solution Focused, Eager to learn Graduate in Computer Science and IT
