@@ -1,14 +1,14 @@
 # Supriya Chavan
-# Phone: +1-443-825-2399                                                           # Email: supriyasonvane2@gmail.com
+# Phone: +1-443-825-2399                                                            Email: supriyasonvane2@gmail.com
 
 ## PROFILE:
 * Solution Focused, Eager to learn Graduate in Computer Science and IT
-* Strong Problem Solving Skills and Math foundation.*
-* Willingness to put hard work to achieve goals.*
-* Love to work with teams to achieve goals. *
+* Strong Problem Solving Skills and Math foundation
+* Willingness to put hard work to achieve goals
+* Love to work with teams to achieve goals
 * Taught core Computer Science subjects along with programming languages in my eight years of
-teaching in Mumbai India. *
-* I aspire to pursue Software Development Engineer position. *
+teaching in Mumbai India
+* I aspire to pursue Software Development Engineer position
 
 ## EDUCATION:
 * Software Development Bootcamp - May 2019-Sept. 2019.*
