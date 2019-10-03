@@ -83,7 +83,7 @@ Object Oriented Modeling and Design, Operating Systems, C, OOP-(C++), DBMS etc.
 * Ranked 3rd in Undergraduate Program. 
 * Secured the Government of Maharashtra Merit seat for Undergraduate Program 
 ## INTERESTS / HOBBIES
-* Learning new techniques to solve complex math problems, solving puzzles and riddles 
+* Learning new techniques to solve complex math problems, solving puzzles and riddles.
 
 
 
