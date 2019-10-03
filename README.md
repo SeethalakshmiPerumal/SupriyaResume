@@ -67,21 +67,21 @@ generation.
  * Organized many series of expert lectures on the latest developing trends in Computer Industry. 
 # Lecturer in Computer Engineering Department 2002 - 2006
  * Teaching: Network Management, Data Communications and Networking, Computer Networks,
-Object Oriented Modeling and Design, Operating Systems, C, OOP-(C++), DBMS etc. 
- * Served as a Chairperson of Technical Paper selection committee for MP-ProEx 2007, 2008, 2010. 
- * Served as Convener for MP-ProEx in 2007,2008,2010. 
+Object Oriented Modeling and Design, Operating Systems, C, OOP-(C++), DBMS etc
+ * Served as a Chairperson of Technical Paper selection committee for MP-ProEx 2007, 2008, 2010
+ * Served as Convener for MP-ProEx in 2007,2008,2010
  * Organized intercollegiate Technical and Cultural Festivals, Blood Donation Camps in
-2005,2006,2009.
+2005,2006,2009
 ## COMPUTER SKILLS
-   * Languages: C, C++, Java, C#. 
- * DBMS Packages MySQL, MS SQL, PL/SQL, Redis Cache. 
- * Web Technologies HTML,CSS,DHTML,XML,XAML , UWP App Development. 
- * In depth working knowledge of Dockerizing of applications using Kubernetes. 
- * Hands on experience in Postman,Rabbitmq. *
+ * Languages: C, C++, Java, C#
+ * DBMS Packages MySQL, MS SQL, PL/SQL, Redis Cache 
+ * Web Technologies HTML,CSS,DHTML,XML,XAML , UWP App Development
+ * In depth working knowledge of Dockerizing of applications using Kubernetes
+ * Hands on experience in Postman,Rabbitmq
 ## AWARDS AND HONORS
 * Best Teacher Award – 2006 MPPM Sion, Mumbai.  
 * Ranked 3rd in Undergraduate Program. 
-* Secured the Government of Maharashtra Merit seat for Undergraduate Program *
+* Secured the Government of Maharashtra Merit seat for Undergraduate Program 
 ## INTERESTS / HOBBIES
 * Learning new techniques to solve complex math problems, solving puzzles and riddles.
 
